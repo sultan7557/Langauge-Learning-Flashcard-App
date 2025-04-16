@@ -4,7 +4,7 @@
 
 Flashy is a simple desktop application built with Python and Tkinter designed to help users learn French vocabulary. It presents flashcards with French words, allowing users to test their knowledge and track their progress. Words the user indicates they know are removed from the learning pool, focusing study efforts on words that still need practice.
 
-![Flashy Screenshot]("images/Screenshot-flashcard.png")
+![Flashy Screenshot]("Language-Learning-Flashcard-App/images/Screenshot-flashcard.png")
 
 ## Features
 
